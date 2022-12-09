@@ -20,14 +20,6 @@
           "settings": {
           }
         },
-        "f4ff542f-0cac-4928-ae2f-afca312e2ab4": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "uppercase"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -104,7 +96,6 @@
         "vendor",
         "title",
         "price",
-        "f4ff542f-0cac-4928-ae2f-afca312e2ab4",
         "description",
         "variant_picker",
         "quantity_selector",
